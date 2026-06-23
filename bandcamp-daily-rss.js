@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 /**
  * Bandcamp Daily → RSS Feed Generator
+ * Parses div.list-article blocks from daily.bandcamp.com
  */
 
 const https = require("https");
@@ -24,7 +25,6 @@ function fetchHTML(url, redirectCount = 0) {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
-        "Cache-Control": "no-cache",
       },
     };
     https.get(url, options, (res) => {
@@ -54,80 +54,55 @@ function stripTags(str) {
 
 function extractArticles(html) {
   const articles = [];
-
-  // Strategy 1: JSON-LD structured data (most reliable)
-  const jsonLdMatches = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/gi) || [];
-  for (const block of jsonLdMatches) {
-    try {
-      const json = JSON.parse(block.replace(/<script[^>]*>/, "").replace(/<\/script>/, ""));
-      const items = json["@graph"] || (Array.isArray(json) ? json : [json]);
-      for (const item of items) {
-        if (item["@type"] === "Article" || item["@type"] === "NewsArticle" || item["@type"] === "BlogPosting") {
-          articles.push({
-            title: item.headline || item.name || "Untitled",
-            url: item.url || item.mainEntityOfPage || null,
-            description: item.description || "",
-            image: item.image?.url || item.image || null,
-            category: item.articleSection || item.genre || "",
-            pubDate: item.datePublished || "",
-          });
-        }
-      }
-    } catch (e) { /* skip malformed JSON-LD */ }
-  }
-
-  if (articles.length > 0) {
-    console.error(`Found ${articles.length} articles via JSON-LD.`);
-    return articles;
-  }
-
-  // Strategy 2: <article> tags
-  const articleBlocks = html.match(/<article[\s\S]*?<\/article>/gi) || [];
-  console.error(`Strategy 2: found ${articleBlocks.length} <article> blocks`);
-
-  for (const block of articleBlocks) {
-    const titleMatch =
-      block.match(/class="[^"]*title[^"]*"[^>]*>([\s\S]*?)<\//i) ||
-      block.match(/<h\d[^>]*>([\s\S]*?)<\/h\d>/i);
-    const title = titleMatch ? stripTags(titleMatch[1]) : "Untitled";
-
-    const linkMatch = block.match(/href="((?:https?:\/\/daily\.bandcamp\.com|\/)[^"]+)"/);
-    const url = linkMatch
-      ? linkMatch[1].startsWith("http") ? linkMatch[1] : BASE_URL + linkMatch[1]
-      : null;
-    if (!url) continue;
-
-    const descMatch =
-      block.match(/class="[^"]*(?:description|excerpt|dek|summary)[^"]*"[^>]*>([\s\S]*?)<\/(?:p|div|span)>/i) ||
-      block.match(/<p[^>]*>([\s\S]*?)<\/p>/i);
-    const description = descMatch ? stripTags(descMatch[1]) : "";
-
-    const imgMatch =
-      block.match(/data-src="([^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"/i) ||
-      block.match(/<img[^>]+src="([^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"/i);
-    const image = imgMatch ? imgMatch[1] : null;
-
-    const catMatch = block.match(/class="[^"]*category[^"]*"[^>]*>([\s\S]*?)<\//i);
-    const category = catMatch ? stripTags(catMatch[1]) : "";
-
-    articles.push({ title, url, description, image, category, pubDate: "" });
-  }
-
-  if (articles.length > 0) return articles;
-
-  // Strategy 3: anchor tags with Bandcamp Daily paths
-  console.error("Strategy 3: scanning anchor tags...");
-  const linkPattern = /href="(https?:\/\/daily\.bandcamp\.com\/[^"]+)"[^>]*>\s*(?:<[^>]+>\s*)*([^<]{10,})/gi;
-  let match;
   const seen = new Set();
-  while ((match = linkPattern.exec(html)) !== null) {
-    const url = match[1];
+
+  // Match each div.list-article block
+  const blockRegex = /<div class="list-article[^"]*">([\s\S]*?)<\/div>\s*<\/div>\s*<\/div>/g;
+  // Simpler: grab from <div class="list-article to the closing title-wrapper div
+  const blocks = [];
+  let start = 0;
+  while (true) {
+    const idx = html.indexOf('<div class="list-article', start);
+    if (idx === -1) break;
+    // Find end: next occurrence of </div> after title-wrapper closing
+    const titleWrapperEnd = html.indexOf('</div>', html.indexOf('title-wrapper', idx));
+    if (titleWrapperEnd === -1) break;
+    const end = html.indexOf('</div>', titleWrapperEnd) + 6;
+    blocks.push(html.slice(idx, end));
+    start = idx + 1;
+  }
+
+  console.error(`Found ${blocks.length} list-article blocks`);
+
+  for (const block of blocks) {
+    // Title and URL: <a class="title" href="/path/to/article">Title text</a>
+    const titleMatch = block.match(/class="title"\s+href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/);
+    if (!titleMatch) continue;
+
+    const relUrl = titleMatch[1];
+    const url = relUrl.startsWith("http") ? relUrl : BASE_URL + relUrl;
     if (seen.has(url)) continue;
     seen.add(url);
-    const title = stripTags(match[2]);
-    if (title.length > 5) {
-      articles.push({ title, url, description: "", image: null, category: "", pubDate: "" });
-    }
+
+    const title = stripTags(titleMatch[2]);
+
+    // Category: <a class="franchise" href="...">CATEGORY NAME</a>
+    const catMatch = block.match(/class="franchise"[^>]*>([^<]+)<\/a>/);
+    const category = catMatch ? stripTags(catMatch[1]) : "";
+
+    // Date: text node after the middot span
+    const dateMatch = block.match(/class="middot"[^>]*>&middot;<\/span>\s*([\w,\s]+\d{4})/);
+    const pubDate = dateMatch ? dateMatch[1].trim() : "";
+
+    // Image: first <img src="...">
+    const imgMatch = block.match(/<img\s+src="([^"]+)"/);
+    const image = imgMatch ? imgMatch[1] : null;
+
+    // Blurb (only present on big-feature items)
+    const blurbMatch = block.match(/<p class="blurb">([\s\S]*?)<\/p>/);
+    const description = blurbMatch ? stripTags(blurbMatch[1]) : "";
+
+    articles.push({ title, url, description, image, category, pubDate });
   }
 
   return articles;
@@ -148,16 +123,20 @@ function buildRSS(articles, sourceUrl) {
     ? section.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())
     : "Latest";
 
-  const items = articles.map(({ title, url, description, image, category, pubDate }) => `
+  const items = articles.map(({ title, url, description, image, category, pubDate }) => {
+    const parsedDate = pubDate ? new Date(pubDate) : null;
+    const validDate = parsedDate && !isNaN(parsedDate) ? parsedDate.toUTCString() : "";
+    return `
     <item>
       <title>${escapeXML(title)}</title>
       <link>${escapeXML(url)}</link>
       <guid isPermaLink="true">${escapeXML(url)}</guid>
       ${description ? `<description>${escapeXML(description)}</description>` : ""}
       ${category ? `<category>${escapeXML(category)}</category>` : ""}
-      ${pubDate ? `<pubDate>${new Date(pubDate).toUTCString()}</pubDate>` : ""}
+      ${validDate ? `<pubDate>${validDate}</pubDate>` : ""}
       ${image ? `<enclosure url="${escapeXML(image)}" type="image/jpeg" length="0"/>` : ""}
-    </item>`).join("\n");
+    </item>`;
+  }).join("\n");
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -183,22 +162,20 @@ function buildRSS(articles, sourceUrl) {
     process.exit(1);
   }
 
-  console.error(`Got ${html.length} bytes of HTML.`);
+  console.error(`Got ${html.length} bytes.`);
 
-  // Always save debug HTML in CI for inspection
   if (process.env.CI) {
     fs.writeFileSync("bandcamp-daily-debug.html", html);
-    console.error("Debug HTML saved.");
   }
 
   const articles = extractArticles(html);
 
   if (articles.length === 0) {
-    console.error("ERROR: No articles found after all strategies. Check bandcamp-daily-debug.html.");
+    console.error("ERROR: No articles found.");
     process.exit(1);
   }
 
-  console.error(`Total articles extracted: ${articles.length}`);
+  console.error(`Extracted ${articles.length} articles.`);
 
   const rss = buildRSS(articles, TARGET_URL);
 
