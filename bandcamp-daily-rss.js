@@ -1,29 +1,12 @@
 #!/usr/bin/env node
 /**
  * Bandcamp Daily → RSS Feed Generator
- * ------------------------------------
- * Scrapes https://daily.bandcamp.com and writes a valid RSS 2.0 feed to
- * bandcamp-daily-feed.xml (or stdout with --stdout).
- *
- * Usage:
- *   node bandcamp-daily-rss.js                  # writes bandcamp-daily-feed.xml
- *   node bandcamp-daily-rss.js --stdout          # prints XML to console
- *   node bandcamp-daily-rss.js --section=features
- *   node bandcamp-daily-rss.js --section=album-of-the-day
- *
- * Sections you can filter by (append to daily.bandcamp.com/):
- *   features | lists | album-of-the-day | genres | series
- *   (leave blank for the main "latest" feed)
- *
- * Requirements: Node.js 18+ (uses built-in fetch).
- * No npm install needed.
  */
 
 const https = require("https");
 const fs = require("fs");
 const path = require("path");
 
-// ── CLI args ──────────────────────────────────────────────────────────────────
 const args = process.argv.slice(2);
 const toStdout = args.includes("--stdout");
 const sectionArg = args.find((a) => a.startsWith("--section="));
@@ -33,87 +16,123 @@ const BASE_URL = "https://daily.bandcamp.com";
 const TARGET_URL = section ? `${BASE_URL}/${section}` : BASE_URL;
 const OUT_FILE = path.join(process.cwd(), "bandcamp-daily-feed.xml");
 
-// ── Fetch helper (no dependencies) ───────────────────────────────────────────
-function fetchHTML(url) {
+function fetchHTML(url, redirectCount = 0) {
   return new Promise((resolve, reject) => {
+    if (redirectCount > 5) return reject(new Error("Too many redirects"));
     const options = {
       headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) " +
-          "AppleWebKit/537.36 (KHTML, like Gecko) " +
-          "Chrome/124.0.0.0 Safari/537.36",
-        Accept: "text/html,application/xhtml+xml",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
+        "Cache-Control": "no-cache",
       },
     };
-    https
-      .get(url, options, (res) => {
-        if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-          return fetchHTML(res.headers.location).then(resolve).catch(reject);
-        }
-        let body = "";
-        res.setEncoding("utf8");
-        res.on("data", (chunk) => (body += chunk));
-        res.on("end", () => resolve(body));
-      })
-      .on("error", reject);
+    https.get(url, options, (res) => {
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        return fetchHTML(res.headers.location, redirectCount + 1).then(resolve).catch(reject);
+      }
+      let body = "";
+      res.setEncoding("utf8");
+      res.on("data", (chunk) => (body += chunk));
+      res.on("end", () => resolve(body));
+    }).on("error", reject);
   });
 }
 
-// ── HTML parsing (pure regex — no dependencies) ───────────────────────────────
+function stripTags(str) {
+  return (str || "")
+    .replace(/<[^>]+>/g, "")
+    .replace(/&amp;/g, "&")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&#39;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function extractArticles(html) {
   const articles = [];
 
-  // Bandcamp Daily uses <article> tags for each post
-  const articleRegex = /<article[\s\S]*?<\/article>/gi;
-  const matches = html.match(articleRegex) || [];
+  // Strategy 1: JSON-LD structured data (most reliable)
+  const jsonLdMatches = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/gi) || [];
+  for (const block of jsonLdMatches) {
+    try {
+      const json = JSON.parse(block.replace(/<script[^>]*>/, "").replace(/<\/script>/, ""));
+      const items = json["@graph"] || (Array.isArray(json) ? json : [json]);
+      for (const item of items) {
+        if (item["@type"] === "Article" || item["@type"] === "NewsArticle" || item["@type"] === "BlogPosting") {
+          articles.push({
+            title: item.headline || item.name || "Untitled",
+            url: item.url || item.mainEntityOfPage || null,
+            description: item.description || "",
+            image: item.image?.url || item.image || null,
+            category: item.articleSection || item.genre || "",
+            pubDate: item.datePublished || "",
+          });
+        }
+      }
+    } catch (e) { /* skip malformed JSON-LD */ }
+  }
 
-  for (const block of matches) {
-    // Title
+  if (articles.length > 0) {
+    console.error(`Found ${articles.length} articles via JSON-LD.`);
+    return articles;
+  }
+
+  // Strategy 2: <article> tags
+  const articleBlocks = html.match(/<article[\s\S]*?<\/article>/gi) || [];
+  console.error(`Strategy 2: found ${articleBlocks.length} <article> blocks`);
+
+  for (const block of articleBlocks) {
     const titleMatch =
-      block.match(/class="[^"]*title[^"]*"[^>]*>([\s\S]*?)<\//) ||
-      block.match(/<h2[^>]*>([\s\S]*?)<\/h2>/i) ||
-      block.match(/<h3[^>]*>([\s\S]*?)<\/h3>/i);
-    const title = titleMatch
-      ? stripTags(titleMatch[1]).trim()
-      : "Untitled";
+      block.match(/class="[^"]*title[^"]*"[^>]*>([\s\S]*?)<\//i) ||
+      block.match(/<h\d[^>]*>([\s\S]*?)<\/h\d>/i);
+    const title = titleMatch ? stripTags(titleMatch[1]) : "Untitled";
 
-    // URL
-    const linkMatch = block.match(/href="(\/[^"]+)"/);
-    const url = linkMatch ? BASE_URL + linkMatch[1] : null;
-    if (!url) continue; // skip if no link
+    const linkMatch = block.match(/href="((?:https?:\/\/daily\.bandcamp\.com|\/)[^"]+)"/);
+    const url = linkMatch
+      ? linkMatch[1].startsWith("http") ? linkMatch[1] : BASE_URL + linkMatch[1]
+      : null;
+    if (!url) continue;
 
-    // Description / excerpt
     const descMatch =
-      block.match(/class="[^"]*description[^"]*"[^>]*>([\s\S]*?)<\/p>/i) ||
-      block.match(/class="[^"]*excerpt[^"]*"[^>]*>([\s\S]*?)<\/p>/i) ||
-      block.match(/class="[^"]*dek[^"]*"[^>]*>([\s\S]*?)<\/p>/i) ||
+      block.match(/class="[^"]*(?:description|excerpt|dek|summary)[^"]*"[^>]*>([\s\S]*?)<\/(?:p|div|span)>/i) ||
       block.match(/<p[^>]*>([\s\S]*?)<\/p>/i);
-    const description = descMatch
-      ? stripTags(descMatch[1]).trim()
-      : "";
+    const description = descMatch ? stripTags(descMatch[1]) : "";
 
-    // Image
     const imgMatch =
       block.match(/data-src="([^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"/i) ||
       block.match(/<img[^>]+src="([^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"/i);
     const image = imgMatch ? imgMatch[1] : null;
 
-    // Category / section label
     const catMatch = block.match(/class="[^"]*category[^"]*"[^>]*>([\s\S]*?)<\//i);
-    const category = catMatch ? stripTags(catMatch[1]).trim() : "";
+    const category = catMatch ? stripTags(catMatch[1]) : "";
 
-    articles.push({ title, url, description, image, category });
+    articles.push({ title, url, description, image, category, pubDate: "" });
+  }
+
+  if (articles.length > 0) return articles;
+
+  // Strategy 3: anchor tags with Bandcamp Daily paths
+  console.error("Strategy 3: scanning anchor tags...");
+  const linkPattern = /href="(https?:\/\/daily\.bandcamp\.com\/[^"]+)"[^>]*>\s*(?:<[^>]+>\s*)*([^<]{10,})/gi;
+  let match;
+  const seen = new Set();
+  while ((match = linkPattern.exec(html)) !== null) {
+    const url = match[1];
+    if (seen.has(url)) continue;
+    seen.add(url);
+    const title = stripTags(match[2]);
+    if (title.length > 5) {
+      articles.push({ title, url, description: "", image: null, category: "", pubDate: "" });
+    }
   }
 
   return articles;
 }
 
-function stripTags(str) {
-  return str.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").replace(/&nbsp;/g, " ").replace(/&#39;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, "<").replace(/&gt;/g, ">").trim();
-}
-
-// ── RSS builder ───────────────────────────────────────────────────────────────
 function escapeXML(str) {
   return (str || "")
     .replace(/&/g, "&amp;")
@@ -129,35 +148,31 @@ function buildRSS(articles, sourceUrl) {
     ? section.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())
     : "Latest";
 
-  const items = articles
-    .map(
-      ({ title, url, description, image, category }) => `
+  const items = articles.map(({ title, url, description, image, category, pubDate }) => `
     <item>
       <title>${escapeXML(title)}</title>
       <link>${escapeXML(url)}</link>
       <guid isPermaLink="true">${escapeXML(url)}</guid>
       ${description ? `<description>${escapeXML(description)}</description>` : ""}
       ${category ? `<category>${escapeXML(category)}</category>` : ""}
+      ${pubDate ? `<pubDate>${new Date(pubDate).toUTCString()}</pubDate>` : ""}
       ${image ? `<enclosure url="${escapeXML(image)}" type="image/jpeg" length="0"/>` : ""}
-    </item>`
-    )
-    .join("\n");
+    </item>`).join("\n");
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bandcamp Daily – ${escapeXML(sectionLabel)}</title>
     <link>${escapeXML(sourceUrl)}</link>
-    <description>Bandcamp Daily editorial feed scraped on ${now}</description>
+    <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
     <lastBuildDate>${now}</lastBuildDate>
-    <atom:link href="${escapeXML(sourceUrl)}" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     ${items}
   </channel>
 </rss>`;
 }
 
-// ── Main ──────────────────────────────────────────────────────────────────────
 (async () => {
   console.error(`Fetching ${TARGET_URL} …`);
   let html;
@@ -168,20 +183,22 @@ function buildRSS(articles, sourceUrl) {
     process.exit(1);
   }
 
+  console.error(`Got ${html.length} bytes of HTML.`);
+
+  // Always save debug HTML in CI for inspection
+  if (process.env.CI) {
+    fs.writeFileSync("bandcamp-daily-debug.html", html);
+    console.error("Debug HTML saved.");
+  }
+
   const articles = extractArticles(html);
+
   if (articles.length === 0) {
-    console.error(
-      "⚠️  No articles found. Bandcamp Daily may have changed its HTML structure.\n" +
-      "   Run with --debug to dump raw HTML for inspection."
-    );
-    if (args.includes("--debug")) {
-      fs.writeFileSync("bandcamp-daily-debug.html", html);
-      console.error("Raw HTML saved to bandcamp-daily-debug.html");
-    }
+    console.error("ERROR: No articles found after all strategies. Check bandcamp-daily-debug.html.");
     process.exit(1);
   }
 
-  console.error(`Found ${articles.length} articles.`);
+  console.error(`Total articles extracted: ${articles.length}`);
 
   const rss = buildRSS(articles, TARGET_URL);
 
