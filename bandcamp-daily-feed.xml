@@ -5,17 +5,27 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 11:08:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:45:59 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>The Best Albums of Spring 2026</title>
-      <link>https://daily.bandcamp.com/best-of-2026/the-best-albums-of-spring-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-of-2026/the-best-albums-of-spring-2026</guid>
+      <title>The Best Punk on Bandcamp, June 2026</title>
+      <link>https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-june-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-june-2026</guid>
       
-      <category>BEST OF 2026</category>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045595692_180" type="image/jpeg" length="0"/>
+      <category>BEST PUNK</category>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045773470_180" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Best Hip-Hop on Bandcamp, June 2026</title>
+      <link>https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-june-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-june-2026</guid>
+      
+      <category>BEST HIP-HOP</category>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045705510_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,23 +39,23 @@
     </item>
 
     <item>
-      <title>Why Power Pop is the Sound of Now</title>
-      <link>https://daily.bandcamp.com/features/power-pop-scene-report</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/power-pop-scene-report</guid>
+      <title>The Best Albums of Spring 2026</title>
+      <link>https://daily.bandcamp.com/best-of-2026/the-best-albums-of-spring-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-of-2026/the-best-albums-of-spring-2026</guid>
       
-      <category>FEATURES</category>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045714038_150.jpg" type="image/jpeg" length="0"/>
+      <category>BEST OF 2026</category>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045595692_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
-      <title>Classic Sounds of Thailand Get an Electronic Update</title>
-      <link>https://daily.bandcamp.com/scene-report/new-thai-electronic-music</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/scene-report/new-thai-electronic-music</guid>
+      <title>F/i, “Invisible Men”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/f-i-invisible-men-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/f-i-invisible-men-review</guid>
       
-      <category>SCENE REPORT</category>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045686250_150.jpg" type="image/jpeg" length="0"/>
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045767245_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -56,6 +66,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045706844_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Why Power Pop is the Sound of Now</title>
+      <link>https://daily.bandcamp.com/features/power-pop-scene-report</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/power-pop-scene-report</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045714038_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -96,6 +116,16 @@
       <category>THE SIDE DOOR</category>
       <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045688319_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Classic Sounds of Thailand Get an Electronic Update</title>
+      <link>https://daily.bandcamp.com/scene-report/new-thai-electronic-music</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/scene-report/new-thai-electronic-music</guid>
+      
+      <category>SCENE REPORT</category>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045686250_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -276,36 +306,6 @@
       <category>FEATURES</category>
       <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045281554_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Ruth Garbus, “Profound”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/ruth-garbus-profound-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/ruth-garbus-profound-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045323163_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Various Artists, “Mzansi Bass curated by Shannen SP”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/various-artists-mzansi-bass-curated-by-shannen-sp-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/various-artists-mzansi-bass-curated-by-shannen-sp-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045445344_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Ivo Perelman Picks His Bandcamp Favorites</title>
-      <link>https://daily.bandcamp.com/big-ups/ivo-perelman-big-ups</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/big-ups/ivo-perelman-big-ups</guid>
-      
-      <category>BIG UPS</category>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045426040_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
