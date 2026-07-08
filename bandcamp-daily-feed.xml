@@ -5,9 +5,39 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 09:49:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:35:08 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>“Between Two Worlds” Comes Alive at Fire In the Mountains Festival</title>
+      <link>https://daily.bandcamp.com/features/i-between-two-worlds-interview</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/i-between-two-worlds-interview</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045750505_180" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Underground Medicine #5</title>
+      <link>https://daily.bandcamp.com/underground-medicine/underground-medicine-5</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/underground-medicine/underground-medicine-5</guid>
+      
+      <category>UNDERGROUND MEDICINE</category>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045957746_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Mal Waldron’s Metamorphosis Changed Jazz Piano Forever</title>
+      <link>https://daily.bandcamp.com/features/mal-waldron-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/mal-waldron-album-guide</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045880129_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>The Jazz Scene in Glasgow is Blossoming</title>
       <link>https://daily.bandcamp.com/scene-report/glasgow-jazz-scene-report</link>
@@ -15,7 +45,17 @@
       
       <category>SCENE REPORT</category>
       <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045951732_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0045951732_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>2K88, Lauren Duffus, Rainy Miller &amp; Bianca Scout, “Everything Always Changes, For We’re Truly Here”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/2k88-lauren-duffus-rainy-miller-bianca-scout-everything-always-changes-for-were-truly-here-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/2k88-lauren-duffus-rainy-miller-bianca-scout-everything-always-changes-for-were-truly-here-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045882518_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -26,6 +66,16 @@
       <category>FEATURES</category>
       <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045862980_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Camilla Pisani, “Konstellationen”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/camilla-pisani-konstellationen-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/camilla-pisani-konstellationen-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045941447_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -46,16 +96,6 @@
       <category>PROG IS A STATE OF MIND</category>
       <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045771591_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Camilla Pisani, “Konstellationen”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/camilla-pisani-konstellationen-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/camilla-pisani-konstellationen-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045941447_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -266,46 +306,6 @@
       <category>SCENE REPORT</category>
       <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045686250_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Born At Midnite, “Eternal BAM Nation”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/born-at-midnite-eternal-bam-nation-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/born-at-midnite-eternal-bam-nation-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045687271_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>It’s All Love: Positive Punk and the Sunny Origins of Goth Rock</title>
-      <link>https://daily.bandcamp.com/lists/positive-punk-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/lists/positive-punk-album-guide</guid>
-      
-      <category>LISTS</category>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045684508_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Various Artists, “Music in Exile Presents ‘Jutna’”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/music-in-exile-jutna-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/music-in-exile-jutna-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045637318_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Return of Rosco P. Coldchain</title>
-      <link>https://daily.bandcamp.com/features/rosco-p-coldchain-play-with-something-safe-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/rosco-p-coldchain-play-with-something-safe-feature</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045675403_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
