@@ -5,9 +5,39 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:41:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:02:05 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Essential Releases, July 10, 2026</title>
+      <link>https://daily.bandcamp.com/essential-releases/essential-releases-july-10-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-july-10-2026</guid>
+      
+      <category>ESSENTIAL RELEASES</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045998238_180" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>drink sum wtr Invites You To Sip From The Fountain</title>
+      <link>https://daily.bandcamp.com/label-profile/drink-sum-wtr-label-profile</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/drink-sum-wtr-label-profile</guid>
+      
+      <category>LABEL PROFILE</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045991295_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Best Country Music on Bandcamp, June 2026</title>
+      <link>https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-june-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-june-2026</guid>
+      
+      <category>BEST COUNTRY</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045972306_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>Parts &amp; Labor Return to Forever</title>
       <link>https://daily.bandcamp.com/features/parts-and-labor-set-of-all-sets-feature</link>
@@ -15,7 +45,17 @@
       
       <category>FEATURES</category>
       <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045977951_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0045977951_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Another Planet (Phiik &amp; Lungs) &amp; steel tipped dove, “People Are Not Your Friends”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/phiik-lungs-steel-tipped-dove-people-are-not-your-friends-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/phiik-lungs-steel-tipped-dove-people-are-not-your-friends-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046011680_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -36,16 +76,6 @@
       <category>LISTS</category>
       <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045998250_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Hotlist, Summer 2026</title>
-      <link>https://daily.bandcamp.com/hotlist/the-hotlist-summer-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/hotlist/the-hotlist-summer-2026</guid>
-      
-      <category>HOTLIST</category>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045973832_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -86,6 +116,16 @@
       <category>FEATURES</category>
       <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045847064_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Hotlist, Summer 2026</title>
+      <link>https://daily.bandcamp.com/hotlist/the-hotlist-summer-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/hotlist/the-hotlist-summer-2026</guid>
+      
+      <category>HOTLIST</category>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045973832_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -266,46 +306,6 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045750980_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Punk on Bandcamp, June 2026</title>
-      <link>https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-june-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-june-2026</guid>
-      
-      <category>BEST PUNK</category>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045773470_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>F/i, “Invisible Men”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/f-i-invisible-men-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/f-i-invisible-men-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045767245_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Hip-Hop on Bandcamp, June 2026</title>
-      <link>https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-june-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-june-2026</guid>
-      
-      <category>BEST HIP-HOP</category>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045705510_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Jazz Left Behind By Streaming</title>
-      <link>https://daily.bandcamp.com/lists/bandcamp-only-jazz-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/lists/bandcamp-only-jazz-album-guide</guid>
-      
-      <category>LISTS</category>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045750900_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
