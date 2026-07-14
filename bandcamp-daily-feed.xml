@@ -5,9 +5,29 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 09:34:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:13:44 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Side Door No. 5: Water Damage, Setting, and Two Improvisational Avenues to Escape</title>
+      <link>https://daily.bandcamp.com/side-door/side-door-no-5-water-damage-setting-and-two-improvisational-avenues-to-escape</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/side-door/side-door-no-5-water-damage-setting-and-two-improvisational-avenues-to-escape</guid>
+      
+      <category>THE SIDE DOOR</category>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046032396_180" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Gugak Fusion Pairs Korean Folk with Pop</title>
+      <link>https://daily.bandcamp.com/lists/korean-folk-fusion-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/lists/korean-folk-fusion-album-guide</guid>
+      
+      <category>LISTS</category>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046083536_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>Essential Releases, July 10, 2026</title>
       <link>https://daily.bandcamp.com/essential-releases/essential-releases-july-10-2026</link>
@@ -15,7 +35,7 @@
       
       <category>ESSENTIAL RELEASES</category>
       <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045998238_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0045998238_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,23 +49,13 @@
     </item>
 
     <item>
-      <title>The Best Country Music on Bandcamp, June 2026</title>
-      <link>https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-june-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-june-2026</guid>
+      <title>Ferries, “Eye Wander”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/ferries-eye-wander-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/ferries-eye-wander-review</guid>
       
-      <category>BEST COUNTRY</category>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045972306_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Parts &amp; Labor Return to Forever</title>
-      <link>https://daily.bandcamp.com/features/parts-and-labor-set-of-all-sets-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/parts-and-labor-set-of-all-sets-feature</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045977951_150.jpg" type="image/jpeg" length="0"/>
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045993755_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -59,6 +69,16 @@
     </item>
 
     <item>
+      <title>The Best Country Music on Bandcamp, June 2026</title>
+      <link>https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-june-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-june-2026</guid>
+      
+      <category>BEST COUNTRY</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045972306_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
       <title>The Best Contemporary Classical Music on Bandcamp, June 2026</title>
       <link>https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-june-2026</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-june-2026</guid>
@@ -66,6 +86,16 @@
       <category>BEST CONTEMPORARY CLASSICAL</category>
       <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045995992_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Parts &amp; Labor Return to Forever</title>
+      <link>https://daily.bandcamp.com/features/parts-and-labor-set-of-all-sets-feature</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/parts-and-labor-set-of-all-sets-feature</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0045977951_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -276,36 +306,6 @@
       <category>FEATURES</category>
       <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045773521_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Ambient Music on Bandcamp, June 2026</title>
-      <link>https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-june-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-june-2026</guid>
-      
-      <category>BEST AMBIENT</category>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045825346_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Jazz on Bandcamp, June 2026</title>
-      <link>https://daily.bandcamp.com/best-jazz/the-best-jazz-on-bandcamp-june-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-jazz/the-best-jazz-on-bandcamp-june-2026</guid>
-      
-      <category>BEST JAZZ</category>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045822403_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Spacemoth, “Inward Eye”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/spacemoth-inward-eye-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045750980_2.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
