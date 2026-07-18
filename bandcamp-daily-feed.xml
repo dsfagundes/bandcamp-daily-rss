@@ -5,9 +5,19 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 08:16:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:58:05 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Essential Releases, July 17, 2026</title>
+      <link>https://daily.bandcamp.com/essential-releases/essential-releases-july-17-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-july-17-2026</guid>
+      
+      <category>ESSENTIAL RELEASES</category>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046143325_180" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>The Big, Buoyant Family of the Napoli Funk Scene</title>
       <link>https://daily.bandcamp.com/scene-report/napoli-funk-feature</link>
@@ -15,7 +25,7 @@
       
       <category>SCENE REPORT</category>
       <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046140373_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046140373_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -39,13 +49,23 @@
     </item>
 
     <item>
-      <title>Side Door No. 5: Water Damage, Setting, and Two Improvisational Avenues to Escape</title>
-      <link>https://daily.bandcamp.com/side-door/side-door-no-5-water-damage-setting-and-two-improvisational-avenues-to-escape</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/side-door/side-door-no-5-water-damage-setting-and-two-improvisational-avenues-to-escape</guid>
+      <title>Let’s Get Rominimal</title>
+      <link>https://daily.bandcamp.com/scene-report/romanian-minimal-techno-scene-report</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/scene-report/romanian-minimal-techno-scene-report</guid>
       
-      <category>THE SIDE DOOR</category>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046032396_150.jpg" type="image/jpeg" length="0"/>
+      <category>SCENE REPORT</category>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046121853_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Chuck Strangers, “Glory of the King’s Hand”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/chuck-strangers-glory-of-the-kings-hand-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/chuck-strangers-glory-of-the-kings-hand-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046124496_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -86,6 +106,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046040987_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Side Door No. 5: Water Damage, Setting, and Two Improvisational Avenues to Escape</title>
+      <link>https://daily.bandcamp.com/side-door/side-door-no-5-water-damage-setting-and-two-improvisational-avenues-to-escape</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/side-door/side-door-no-5-water-damage-setting-and-two-improvisational-avenues-to-escape</guid>
+      
+      <category>THE SIDE DOOR</category>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046032396_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -276,36 +306,6 @@
       <category>FEATURES</category>
       <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045862980_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Camilla Pisani, “Konstellationen”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/camilla-pisani-konstellationen-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/camilla-pisani-konstellationen-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045941447_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Metal on Bandcamp, June 2026</title>
-      <link>https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-june-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-june-2026</guid>
-      
-      <category>BEST METAL</category>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045600078_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Prog Is a State of Mind #2</title>
-      <link>https://daily.bandcamp.com/prog-state-mind/prog-is-a-state-of-mind-2</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/prog-state-mind/prog-is-a-state-of-mind-2</guid>
-      
-      <category>PROG IS A STATE OF MIND</category>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045771591_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
