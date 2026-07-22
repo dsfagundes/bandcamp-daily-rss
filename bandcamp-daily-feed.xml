@@ -5,9 +5,19 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 08:34:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:34:20 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Trust the Music: A Guide to the Big Blood Family</title>
+      <link>https://daily.bandcamp.com/features/big-blood-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/big-blood-album-guide</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046206546_180" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>Free Dirt Records Is Shaping the New Sound of Roots Music</title>
       <link>https://daily.bandcamp.com/label-profile/free-dirt-records-label-profile</link>
@@ -15,7 +25,7 @@
       
       <category>LABEL PROFILE</category>
       <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046143544_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046143544_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -39,13 +49,13 @@
     </item>
 
     <item>
-      <title>The Shape of Twee to Come</title>
-      <link>https://daily.bandcamp.com/features/twee-pop-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/twee-pop-feature</guid>
+      <title>Luluc, “Sweet Thief”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/luluc-sweet-thief-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/luluc-sweet-thief-review</guid>
       
-      <category>FEATURES</category>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046108789_150.jpg" type="image/jpeg" length="0"/>
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046166559_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -106,6 +116,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046103679_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Shape of Twee to Come</title>
+      <link>https://daily.bandcamp.com/features/twee-pop-feature</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/twee-pop-feature</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046108789_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -286,26 +306,6 @@
       <category>UNDERGROUND MEDICINE</category>
       <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045957746_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>“Between Two Worlds” Comes Alive at Fire In the Mountains Festival</title>
-      <link>https://daily.bandcamp.com/features/i-between-two-worlds-interview</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/i-between-two-worlds-interview</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045750505_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Mal Waldron’s Metamorphosis Changed Jazz Piano Forever</title>
-      <link>https://daily.bandcamp.com/features/mal-waldron-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/mal-waldron-album-guide</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045880129_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
