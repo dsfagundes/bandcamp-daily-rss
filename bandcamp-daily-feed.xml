@@ -5,9 +5,19 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 08:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 08:11:13 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Essential Releases, July 24, 2026</title>
+      <link>https://daily.bandcamp.com/essential-releases/essential-releases-july-24-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-july-24-2026</guid>
+      
+      <category>ESSENTIAL RELEASES</category>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046277414_180" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>When Baile Funk Met UK Garage</title>
       <link>https://daily.bandcamp.com/scene-report/brazil-uk-garage-feature</link>
@@ -15,7 +25,7 @@
       
       <category>SCENE REPORT</category>
       <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046261647_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046261647_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,16 +39,6 @@
     </item>
 
     <item>
-      <title>Trust the Music: A Guide to the Big Blood Family</title>
-      <link>https://daily.bandcamp.com/features/big-blood-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/big-blood-album-guide</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046206546_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
       <title>Free Dirt Records Is Shaping the New Sound of Roots Music</title>
       <link>https://daily.bandcamp.com/label-profile/free-dirt-records-label-profile</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/free-dirt-records-label-profile</guid>
@@ -46,6 +46,26 @@
       <category>LABEL PROFILE</category>
       <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046143544_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>“Kingdom Come, Kingdom Go” Brings Aging Church Organs Back to Life</title>
+      <link>https://daily.bandcamp.com/features/michael-cloud-duguay-kingdom-come-kingdom-go-feature</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/michael-cloud-duguay-kingdom-come-kingdom-go-feature</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046140878_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Curió Curió, “Curió Curió”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/curio-curio-self-titled-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/curio-curio-self-titled-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046246204_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -66,6 +86,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046236165_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Trust the Music: A Guide to the Big Blood Family</title>
+      <link>https://daily.bandcamp.com/features/big-blood-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/big-blood-album-guide</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046206546_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -276,36 +306,6 @@
       <category>FEATURES</category>
       <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045977951_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Warped, Wondrous World of Microtonal Jazz on Bandcamp</title>
-      <link>https://daily.bandcamp.com/lists/microtonal-jazz-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/lists/microtonal-jazz-album-guide</guid>
-      
-      <category>LISTS</category>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045998250_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>MAQUINA., “BODY TRANSMISSION”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/maquina-body-transmission-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/maquina-body-transmission-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045977848_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Latin Music on Bandcamp, June 2026</title>
-      <link>https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-june-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-june-2026</guid>
-      
-      <category>BEST LATIN</category>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045972019_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
