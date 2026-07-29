@@ -5,9 +5,19 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:40:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:46:07 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Allien Lanes</title>
+      <link>https://daily.bandcamp.com/lists/ellen-allien-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/lists/ellen-allien-album-guide</guid>
+      
+      <category>LISTS</category>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046277469_180" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>It Starts with a Question: How Duplex Planet Connects Humanity</title>
       <link>https://daily.bandcamp.com/features/the-duplex-planet-feature</link>
@@ -15,7 +25,7 @@
       
       <category>FEATURES</category>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046277630_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046277630_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -39,13 +49,13 @@
     </item>
 
     <item>
-      <title>Free Dirt Records Is Shaping the New Sound of Roots Music</title>
-      <link>https://daily.bandcamp.com/label-profile/free-dirt-records-label-profile</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/free-dirt-records-label-profile</guid>
+      <title>Nu Jazz, “Un Jazz”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/nu-jazz-un-jazz</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/nu-jazz-un-jazz</guid>
       
-      <category>LABEL PROFILE</category>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046143544_150.jpg" type="image/jpeg" length="0"/>
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046349426_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -126,6 +136,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046166559_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Free Dirt Records Is Shaping the New Sound of Roots Music</title>
+      <link>https://daily.bandcamp.com/label-profile/free-dirt-records-label-profile</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/free-dirt-records-label-profile</guid>
+      
+      <category>LABEL PROFILE</category>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046143544_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -286,26 +306,6 @@
       <category>ESSENTIAL RELEASES</category>
       <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0045998238_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>drink sum wtr Invites You To Sip From The Fountain</title>
-      <link>https://daily.bandcamp.com/label-profile/drink-sum-wtr-label-profile</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/drink-sum-wtr-label-profile</guid>
-      
-      <category>LABEL PROFILE</category>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045991295_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Country Music on Bandcamp, June 2026</title>
-      <link>https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-june-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-june-2026</guid>
-      
-      <category>BEST COUNTRY</category>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045972306_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
