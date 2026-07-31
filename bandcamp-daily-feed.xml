@@ -5,9 +5,19 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 08:32:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:54:30 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Saxophonist Nora Stanley Goes Solo with “Glass”</title>
+      <link>https://daily.bandcamp.com/features/nora-stanley-glass-interview</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/nora-stanley-glass-interview</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046221461_180" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>The Durutti Column’s Factory Years, Reconstructed</title>
       <link>https://daily.bandcamp.com/lists/durutti-column-factory-album-guide</link>
@@ -15,7 +25,7 @@
       
       <category>LISTS</category>
       <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046352797_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046352797_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,16 +39,6 @@
     </item>
 
     <item>
-      <title>It Starts with a Question: How Duplex Planet Connects Humanity</title>
-      <link>https://daily.bandcamp.com/features/the-duplex-planet-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/the-duplex-planet-feature</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046277630_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
       <title>When Baile Funk Met UK Garage</title>
       <link>https://daily.bandcamp.com/scene-report/brazil-uk-garage-feature</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/scene-report/brazil-uk-garage-feature</guid>
@@ -46,6 +46,16 @@
       <category>SCENE REPORT</category>
       <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046261647_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>leo, “Cicada Burnt”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/leo-cicada-burnt-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/leo-cicada-burnt-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046351430_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -76,6 +86,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046281652_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>It Starts with a Question: How Duplex Planet Connects Humanity</title>
+      <link>https://daily.bandcamp.com/features/the-duplex-planet-feature</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/the-duplex-planet-feature</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046277630_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -286,26 +306,6 @@
       <category>LISTS</category>
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046083536_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Side Door No. 5: Water Damage, Setting, and Two Improvisational Avenues to Escape</title>
-      <link>https://daily.bandcamp.com/side-door/side-door-no-5-water-damage-setting-and-two-improvisational-avenues-to-escape</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/side-door/side-door-no-5-water-damage-setting-and-two-improvisational-avenues-to-escape</guid>
-      
-      <category>THE SIDE DOOR</category>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046032396_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Ferries, “Eye Wander”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/ferries-eye-wander-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/ferries-eye-wander-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0045993755_2.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
