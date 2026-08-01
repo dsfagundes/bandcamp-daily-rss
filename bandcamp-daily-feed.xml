@@ -5,9 +5,19 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 08:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:25:33 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Essential Releases, July 31, 2026</title>
+      <link>https://daily.bandcamp.com/essential-releases/essential-releases-july-31-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-july-31-2026</guid>
+      
+      <category>ESSENTIAL RELEASES</category>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046416474_180" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>Saxophonist Nora Stanley Goes Solo with “Glass”</title>
       <link>https://daily.bandcamp.com/features/nora-stanley-glass-interview</link>
@@ -15,7 +25,7 @@
       
       <category>FEATURES</category>
       <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046221461_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046221461_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,23 +39,23 @@
     </item>
 
     <item>
-      <title>Allien Lanes</title>
-      <link>https://daily.bandcamp.com/lists/ellen-allien-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/lists/ellen-allien-album-guide</guid>
+      <title>It Starts with a Question: How Duplex Planet Connects Humanity</title>
+      <link>https://daily.bandcamp.com/features/the-duplex-planet-feature</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/the-duplex-planet-feature</guid>
       
-      <category>LISTS</category>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046277469_150.jpg" type="image/jpeg" length="0"/>
+      <category>FEATURES</category>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046277630_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
-      <title>When Baile Funk Met UK Garage</title>
-      <link>https://daily.bandcamp.com/scene-report/brazil-uk-garage-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/scene-report/brazil-uk-garage-feature</guid>
+      <title>Hourloupe, “Last Lost Word”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/hourlope-last-lost-word-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/hourlope-last-lost-word-review</guid>
       
-      <category>SCENE REPORT</category>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046261647_150.jpg" type="image/jpeg" length="0"/>
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046305037_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -69,6 +79,16 @@
     </item>
 
     <item>
+      <title>Allien Lanes</title>
+      <link>https://daily.bandcamp.com/lists/ellen-allien-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/lists/ellen-allien-album-guide</guid>
+      
+      <category>LISTS</category>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046277469_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
       <title>Nu Jazz, “Un Jazz”</title>
       <link>https://daily.bandcamp.com/album-of-the-day/nu-jazz-un-jazz</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/nu-jazz-un-jazz</guid>
@@ -86,16 +106,6 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046281652_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>It Starts with a Question: How Duplex Planet Connects Humanity</title>
-      <link>https://daily.bandcamp.com/features/the-duplex-planet-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/the-duplex-planet-feature</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046277630_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -136,6 +146,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046255902_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>When Baile Funk Met UK Garage</title>
+      <link>https://daily.bandcamp.com/scene-report/brazil-uk-garage-feature</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/scene-report/brazil-uk-garage-feature</guid>
+      
+      <category>SCENE REPORT</category>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046261647_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -286,26 +306,6 @@
       <category>FEATURES</category>
       <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046032764_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Violet Cowboy, “Ramraid at the Wiggly Worm”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/violet-cowboy-ramraid-at-the-wiggly-worm-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/violet-cowboy-ramraid-at-the-wiggly-worm-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046040987_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Gugak Fusion Pairs Korean Folk with Pop</title>
-      <link>https://daily.bandcamp.com/lists/korean-folk-fusion-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/lists/korean-folk-fusion-album-guide</guid>
-      
-      <category>LISTS</category>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046083536_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
