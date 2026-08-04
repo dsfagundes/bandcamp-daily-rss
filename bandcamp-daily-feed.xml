@@ -5,9 +5,29 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 09:52:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 08:43:08 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>The Best Punk on Bandcamp, July 2026</title>
+      <link>https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-july-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-july-2026</guid>
+      
+      <category>BEST PUNK</category>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046490587_180" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Tape Label Report, July 2026</title>
+      <link>https://daily.bandcamp.com/tape-label-report/the-tape-label-report-july-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/tape-label-report/the-tape-label-report-july-2026</guid>
+      
+      <category>TAPE LABEL REPORT</category>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046350941_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>Essential Releases, July 31, 2026</title>
       <link>https://daily.bandcamp.com/essential-releases/essential-releases-july-31-2026</link>
@@ -15,37 +35,27 @@
       
       <category>ESSENTIAL RELEASES</category>
       <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046416474_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046416474_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
-      <title>Saxophonist Nora Stanley Goes Solo with “Glass”</title>
-      <link>https://daily.bandcamp.com/features/nora-stanley-glass-interview</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/nora-stanley-glass-interview</guid>
+      <title>This Friday is Bandcamp Friday</title>
+      <link>https://daily.bandcamp.com/features/bandcamp-fridays</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/bandcamp-fridays</guid>
       
       <category>FEATURES</category>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046221461_150.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0042629193_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
-      <title>The Durutti Column’s Factory Years, Reconstructed</title>
-      <link>https://daily.bandcamp.com/lists/durutti-column-factory-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/lists/durutti-column-factory-album-guide</guid>
+      <title>sachi’s mirror, “Talking in a Different Way”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/sachis-mirror-talking-in-a-different-way-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/sachis-mirror-talking-in-a-different-way-review</guid>
       
-      <category>LISTS</category>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046352797_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>It Starts with a Question: How Duplex Planet Connects Humanity</title>
-      <link>https://daily.bandcamp.com/features/the-duplex-planet-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/the-duplex-planet-feature</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046277630_150.jpg" type="image/jpeg" length="0"/>
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046392105_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -59,6 +69,16 @@
     </item>
 
     <item>
+      <title>Saxophonist Nora Stanley Goes Solo with “Glass”</title>
+      <link>https://daily.bandcamp.com/features/nora-stanley-glass-interview</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/nora-stanley-glass-interview</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046221461_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
       <title>leo, “Cicada Burnt”</title>
       <link>https://daily.bandcamp.com/album-of-the-day/leo-cicada-burnt-review</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/leo-cicada-burnt-review</guid>
@@ -66,6 +86,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046351430_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Durutti Column’s Factory Years, Reconstructed</title>
+      <link>https://daily.bandcamp.com/lists/durutti-column-factory-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/lists/durutti-column-factory-album-guide</guid>
+      
+      <category>LISTS</category>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046352797_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -106,6 +136,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046281652_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>It Starts with a Question: How Duplex Planet Connects Humanity</title>
+      <link>https://daily.bandcamp.com/features/the-duplex-planet-feature</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/the-duplex-planet-feature</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046277630_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -266,46 +306,6 @@
       <category>SCENE REPORT</category>
       <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046140373_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Lido Pimienta, “Caribenya”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/lido-pimienta-caribenya-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/lido-pimienta-caribenya-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046140696_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Brian Ennals &amp; Blockhead, “Boatshoes”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/brian-ennals-blockhead-boatshoes-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/brian-ennals-blockhead-boatshoes-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046103679_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Shape of Twee to Come</title>
-      <link>https://daily.bandcamp.com/features/twee-pop-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/twee-pop-feature</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046108789_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Arc Iris Built An Art-Pop Sanctuary In Their Own Backyard (Literally)</title>
-      <link>https://daily.bandcamp.com/features/arc-iris-itmrw-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/arc-iris-itmrw-feature</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046032764_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
