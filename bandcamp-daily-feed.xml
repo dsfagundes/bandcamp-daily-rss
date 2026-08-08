@@ -5,9 +5,59 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 06:59:01 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Essential Releases, August 7, 2026</title>
+      <link>https://daily.bandcamp.com/essential-releases/essential-releases-august-7-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-august-7-2026</guid>
+      
+      <category>ESSENTIAL RELEASES</category>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046564822_180" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Best Latin Music on Bandcamp, July 2026</title>
+      <link>https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-july-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-july-2026</guid>
+      
+      <category>BEST LATIN</category>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046592172_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Best Electronic Music on Bandcamp, July 2026</title>
+      <link>https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-july-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-july-2026</guid>
+      
+      <category>BEST ELECTRONIC</category>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046565010_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Today is Bandcamp Friday</title>
+      <link>https://daily.bandcamp.com/features/bandcamp-fridays</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/bandcamp-fridays</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0042629193_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Papangu, “Celestial”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/papangu-celestial-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/papangu-celestial-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046515999_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>The Best Metal on Bandcamp, July 2026</title>
       <link>https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-july-2026</link>
@@ -15,7 +65,7 @@
       
       <category>BEST METAL</category>
       <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046537500_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046537500_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,26 +79,6 @@
     </item>
 
     <item>
-      <title>The Best Hip-Hop on Bandcamp, July 2026</title>
-      <link>https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-july-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-july-2026</guid>
-      
-      <category>BEST HIP-HOP</category>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046515064_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>This Friday is Bandcamp Friday</title>
-      <link>https://daily.bandcamp.com/features/bandcamp-fridays</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/bandcamp-fridays</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0042629193_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
       <title>abracadabra, “peel away”</title>
       <link>https://daily.bandcamp.com/album-of-the-day/abracadabra-peel-away-review</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/abracadabra-peel-away-review</guid>
@@ -56,6 +86,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046495176_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Best Hip-Hop on Bandcamp, July 2026</title>
+      <link>https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-july-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-july-2026</guid>
+      
+      <category>BEST HIP-HOP</category>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046515064_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -266,46 +306,6 @@
       <category>ESSENTIAL RELEASES</category>
       <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046277414_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Left to Die, “Initium Mortis”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/left-to-die-initium-mortis-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/left-to-die-initium-mortis-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046255902_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>When Baile Funk Met UK Garage</title>
-      <link>https://daily.bandcamp.com/scene-report/brazil-uk-garage-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/scene-report/brazil-uk-garage-feature</guid>
-      
-      <category>SCENE REPORT</category>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046261647_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Music Seen #1</title>
-      <link>https://daily.bandcamp.com/music-seen/music-seen-1</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/music-seen/music-seen-1</guid>
-      
-      <category>MUSIC SEEN</category>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046240604_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>REZN, “Cycles in the Infinite Dream”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/rezn-cycles-in-the-infinite-dream-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/rezn-cycles-in-the-infinite-dream-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046236165_2.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
