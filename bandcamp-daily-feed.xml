@@ -5,7 +5,7 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 06:59:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:01:33 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -39,13 +39,13 @@
     </item>
 
     <item>
-      <title>Today is Bandcamp Friday</title>
-      <link>https://daily.bandcamp.com/features/bandcamp-fridays</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/bandcamp-fridays</guid>
+      <title>The Best Metal on Bandcamp, July 2026</title>
+      <link>https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-july-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-july-2026</guid>
       
-      <category>FEATURES</category>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0042629193_150.jpg" type="image/jpeg" length="0"/>
+      <category>BEST METAL</category>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046537500_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -56,16 +56,6 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046515999_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Metal on Bandcamp, July 2026</title>
-      <link>https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-july-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-july-2026</guid>
-      
-      <category>BEST METAL</category>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046537500_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -276,6 +266,16 @@
       <category>FEATURES</category>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046277630_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Today is Bandcamp Friday</title>
+      <link>https://daily.bandcamp.com/features/bandcamp-fridays</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/bandcamp-fridays</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0042629193_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
