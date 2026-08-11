@@ -5,17 +5,37 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 07:48:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:13:23 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Essential Releases, August 7, 2026</title>
-      <link>https://daily.bandcamp.com/essential-releases/essential-releases-august-7-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-august-7-2026</guid>
+      <title>Reggae Left Behind By Streaming</title>
+      <link>https://daily.bandcamp.com/left-behind-by-streaming/reggae-left-behind-by-streaming</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/left-behind-by-streaming/reggae-left-behind-by-streaming</guid>
       
-      <category>ESSENTIAL RELEASES</category>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046564822_180" type="image/jpeg" length="0"/>
+      <category>LEFT BEHIND BY STREAMING</category>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046410636_180" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>A Guide to Dimmu Borgir, The Original Symphonic Black Metal Band</title>
+      <link>https://daily.bandcamp.com/lists/dimmu-borgir-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/lists/dimmu-borgir-album-guide</guid>
+      
+      <category>LISTS</category>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046539809_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Best Country Music on Bandcamp, July 2026</title>
+      <link>https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-july-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-july-2026</guid>
+      
+      <category>BEST COUNTRY</category>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046490555_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,6 +49,16 @@
     </item>
 
     <item>
+      <title>HULDER, “Verbolgen”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/hulder-verbolgen-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/hulder-verbolgen-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046494932_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
       <title>The Best Electronic Music on Bandcamp, July 2026</title>
       <link>https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-july-2026</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-july-2026</guid>
@@ -39,13 +69,13 @@
     </item>
 
     <item>
-      <title>The Best Metal on Bandcamp, July 2026</title>
-      <link>https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-july-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-july-2026</guid>
+      <title>Essential Releases, August 7, 2026</title>
+      <link>https://daily.bandcamp.com/essential-releases/essential-releases-august-7-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-august-7-2026</guid>
       
-      <category>BEST METAL</category>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046537500_150.jpg" type="image/jpeg" length="0"/>
+      <category>ESSENTIAL RELEASES</category>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046564822_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -56,6 +86,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046515999_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Best Metal on Bandcamp, July 2026</title>
+      <link>https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-july-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-july-2026</guid>
+      
+      <category>BEST METAL</category>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046537500_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -266,46 +306,6 @@
       <category>FEATURES</category>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046277630_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Today is Bandcamp Friday</title>
-      <link>https://daily.bandcamp.com/features/bandcamp-fridays</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/bandcamp-fridays</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0042629193_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>“Kingdom Come, Kingdom Go” Brings Aging Church Organs Back to Life</title>
-      <link>https://daily.bandcamp.com/features/michael-cloud-duguay-kingdom-come-kingdom-go-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/michael-cloud-duguay-kingdom-come-kingdom-go-feature</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046140878_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Curió Curió, “Curió Curió”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/curio-curio-self-titled-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/curio-curio-self-titled-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046246204_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Essential Releases, July 24, 2026</title>
-      <link>https://daily.bandcamp.com/essential-releases/essential-releases-july-24-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-july-24-2026</guid>
-      
-      <category>ESSENTIAL RELEASES</category>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046277414_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
