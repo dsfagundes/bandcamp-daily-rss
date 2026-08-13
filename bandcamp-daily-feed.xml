@@ -5,17 +5,17 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 07:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:39:01 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>The Womack Sisters Keep It In the Family</title>
-      <link>https://daily.bandcamp.com/features/the-womack-sisters-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/the-womack-sisters-feature</guid>
+      <title>Sweeping Promises Pick Their Bandcamp Favorites</title>
+      <link>https://daily.bandcamp.com/big-ups/sweeping-promises-big-ups</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/big-ups/sweeping-promises-big-ups</guid>
       
-      <category>FEATURES</category>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046591813_180" type="image/jpeg" length="0"/>
+      <category>BIG UPS</category>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046538665_180" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,6 +29,16 @@
     </item>
 
     <item>
+      <title>The Womack Sisters Keep It In the Family</title>
+      <link>https://daily.bandcamp.com/features/the-womack-sisters-feature</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/the-womack-sisters-feature</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046591813_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
       <title>Reggae Left Behind By Streaming</title>
       <link>https://daily.bandcamp.com/left-behind-by-streaming/reggae-left-behind-by-streaming</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/left-behind-by-streaming/reggae-left-behind-by-streaming</guid>
@@ -39,13 +49,13 @@
     </item>
 
     <item>
-      <title>A Guide to Dimmu Borgir, The Original Symphonic Black Metal Band</title>
-      <link>https://daily.bandcamp.com/lists/dimmu-borgir-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/lists/dimmu-borgir-album-guide</guid>
+      <title>Maya Ongaku, “Nothing Space Music”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/maya-ongaku-nothing-space-music-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/maya-ongaku-nothing-space-music-review</guid>
       
-      <category>LISTS</category>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046539809_150.jpg" type="image/jpeg" length="0"/>
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046682245_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -56,6 +66,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046661138_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>A Guide to Dimmu Borgir, The Original Symphonic Black Metal Band</title>
+      <link>https://daily.bandcamp.com/lists/dimmu-borgir-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/lists/dimmu-borgir-album-guide</guid>
+      
+      <category>LISTS</category>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046539809_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -286,26 +306,6 @@
       <category>LISTS</category>
       <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046352797_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Sir Richard Bishop, “Hillbilly Erotica”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/sir-richard-bishop-hillbilly-erotica-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/sir-richard-bishop-hillbilly-erotica-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046305038_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Allien Lanes</title>
-      <link>https://daily.bandcamp.com/lists/ellen-allien-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/lists/ellen-allien-album-guide</guid>
-      
-      <category>LISTS</category>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046277469_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
