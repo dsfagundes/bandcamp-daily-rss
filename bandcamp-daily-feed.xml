@@ -5,9 +5,19 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 07:39:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:37:32 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Cuba’s DIY Scene Endures in the Face of Constant Crackdowns</title>
+      <link>https://daily.bandcamp.com/scene-report/cuba-experimental-underground-scene-report</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/scene-report/cuba-experimental-underground-scene-report</guid>
+      
+      <category>SCENE REPORT</category>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046678703_180" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>Sweeping Promises Pick Their Bandcamp Favorites</title>
       <link>https://daily.bandcamp.com/big-ups/sweeping-promises-big-ups</link>
@@ -15,7 +25,7 @@
       
       <category>BIG UPS</category>
       <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046538665_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046538665_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -39,13 +49,13 @@
     </item>
 
     <item>
-      <title>Reggae Left Behind By Streaming</title>
-      <link>https://daily.bandcamp.com/left-behind-by-streaming/reggae-left-behind-by-streaming</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/left-behind-by-streaming/reggae-left-behind-by-streaming</guid>
+      <title>André Cymone, “The Resurrection of Funk”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/andre-cymone-the-resurrection-of-funk-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/andre-cymone-the-resurrection-of-funk-review</guid>
       
-      <category>LEFT BEHIND BY STREAMING</category>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046410636_150.jpg" type="image/jpeg" length="0"/>
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046662832_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -66,6 +76,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046661138_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Reggae Left Behind By Streaming</title>
+      <link>https://daily.bandcamp.com/left-behind-by-streaming/reggae-left-behind-by-streaming</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/left-behind-by-streaming/reggae-left-behind-by-streaming</guid>
+      
+      <category>LEFT BEHIND BY STREAMING</category>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046410636_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -286,26 +306,6 @@
       <category>FEATURES</category>
       <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046221461_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>leo, “Cicada Burnt”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/leo-cicada-burnt-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/leo-cicada-burnt-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046351430_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Durutti Column’s Factory Years, Reconstructed</title>
-      <link>https://daily.bandcamp.com/lists/durutti-column-factory-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/lists/durutti-column-factory-album-guide</guid>
-      
-      <category>LISTS</category>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046352797_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
