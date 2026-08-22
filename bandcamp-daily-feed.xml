@@ -5,9 +5,39 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 06:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:45:11 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Essential Releases, August 21, 2026</title>
+      <link>https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026</guid>
+      
+      <category>ESSENTIAL RELEASES</category>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046856380_180" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Hip-Hop Label Fused Arrow Hits The Target, Every Time</title>
+      <link>https://daily.bandcamp.com/label-profile/fused-arrow-label-profile</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/fused-arrow-label-profile</guid>
+      
+      <category>LABEL PROFILE</category>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046857128_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Gasba Forever: The Next Phase of Algeria’s Millenia-Old Folk Tradition</title>
+      <link>https://daily.bandcamp.com/features/my-heart-is-dust-before-him-21st-century-gasba-from-algeria-feature</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/my-heart-is-dust-before-him-21st-century-gasba-from-algeria-feature</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046677460_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>The Ongoing Transformation of Cabo Verdean Music</title>
       <link>https://daily.bandcamp.com/scene-report/the-ongoing-transformation-of-music-from-cabo-verde-review</link>
@@ -15,7 +45,17 @@
       
       <category>SCENE REPORT</category>
       <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046857497_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046857497_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Ok Cowgirl, “Rhinestone Cowgirl”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/ok-cowgirl-rhinestone-cowgirl-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/ok-cowgirl-rhinestone-cowgirl-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046838996_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -26,26 +66,6 @@
       <category>FEATURES</category>
       <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046849370_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Queer Country Revolution Rolls On</title>
-      <link>https://daily.bandcamp.com/lists/queer-country-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/lists/queer-country-album-guide</guid>
-      
-      <category>LISTS</category>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046797666_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>How Colectivo Casa Amarela Grew Beyond Its Island Origins</title>
-      <link>https://daily.bandcamp.com/label-profile/colectivo-casa-amarela-label-profile</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/colectivo-casa-amarela-label-profile</guid>
-      
-      <category>LABEL PROFILE</category>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046802356_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -66,6 +86,26 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046800042_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Queer Country Revolution Rolls On</title>
+      <link>https://daily.bandcamp.com/lists/queer-country-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/lists/queer-country-album-guide</guid>
+      
+      <category>LISTS</category>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046797666_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>How Colectivo Casa Amarela Grew Beyond Its Island Origins</title>
+      <link>https://daily.bandcamp.com/label-profile/colectivo-casa-amarela-label-profile</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/colectivo-casa-amarela-label-profile</guid>
+      
+      <category>LABEL PROFILE</category>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046802356_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -266,46 +306,6 @@
       <category>BEST LATIN</category>
       <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046592172_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Electronic Music on Bandcamp, July 2026</title>
-      <link>https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-july-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-july-2026</guid>
-      
-      <category>BEST ELECTRONIC</category>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046565010_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Essential Releases, August 7, 2026</title>
-      <link>https://daily.bandcamp.com/essential-releases/essential-releases-august-7-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-august-7-2026</guid>
-      
-      <category>ESSENTIAL RELEASES</category>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046564822_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Papangu, “Celestial”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/papangu-celestial-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/papangu-celestial-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046515999_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Metal on Bandcamp, July 2026</title>
-      <link>https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-july-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-july-2026</guid>
-      
-      <category>BEST METAL</category>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046537500_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
