@@ -5,17 +5,17 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:53:51 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Essential Releases, August 21, 2026</title>
-      <link>https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026</guid>
+      <title>Taking it From the Streets</title>
+      <link>https://daily.bandcamp.com/lists/street-music-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/lists/street-music-album-guide</guid>
       
-      <category>ESSENTIAL RELEASES</category>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046856380_180" type="image/jpeg" length="0"/>
+      <category>LISTS</category>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046881291_180" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,6 +29,16 @@
     </item>
 
     <item>
+      <title>Essential Releases, August 21, 2026</title>
+      <link>https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026</guid>
+      
+      <category>ESSENTIAL RELEASES</category>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046856380_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
       <title>Gasba Forever: The Next Phase of Algeria’s Millenia-Old Folk Tradition</title>
       <link>https://daily.bandcamp.com/features/my-heart-is-dust-before-him-21st-century-gasba-from-algeria-feature</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/features/my-heart-is-dust-before-him-21st-century-gasba-from-algeria-feature</guid>
@@ -39,13 +49,13 @@
     </item>
 
     <item>
-      <title>The Ongoing Transformation of Cabo Verdean Music</title>
-      <link>https://daily.bandcamp.com/scene-report/the-ongoing-transformation-of-music-from-cabo-verde-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/scene-report/the-ongoing-transformation-of-music-from-cabo-verde-review</guid>
+      <title>frances chang, “been thinking bout confession”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/frances-chang-been-thinking-bout-confession-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/frances-chang-been-thinking-bout-confession-review</guid>
       
-      <category>SCENE REPORT</category>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046857497_150.jpg" type="image/jpeg" length="0"/>
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046878932_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -56,6 +66,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046838996_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Ongoing Transformation of Cabo Verdean Music</title>
+      <link>https://daily.bandcamp.com/scene-report/the-ongoing-transformation-of-music-from-cabo-verde-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/scene-report/the-ongoing-transformation-of-music-from-cabo-verde-review</guid>
+      
+      <category>SCENE REPORT</category>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046857497_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -286,26 +306,6 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046494932_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Country Music on Bandcamp, July 2026</title>
-      <link>https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-july-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-july-2026</guid>
-      
-      <category>BEST COUNTRY</category>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046490555_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Latin Music on Bandcamp, July 2026</title>
-      <link>https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-july-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-july-2026</guid>
-      
-      <category>BEST LATIN</category>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046592172_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
