@@ -5,9 +5,29 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:54:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:28:17 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>“Silent Hill” Composer Akira Yamaoka Picks His Bandcamp Favorites</title>
+      <link>https://daily.bandcamp.com/big-ups/akira-yamaoka-big-ups</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/big-ups/akira-yamaoka-big-ups</guid>
+      
+      <category>BIG UPS</category>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046797773_180" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Drummer Lesley Mok Goes Their Own Way</title>
+      <link>https://daily.bandcamp.com/lists/lesley-mok-transient-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/lists/lesley-mok-transient-album-guide</guid>
+      
+      <category>LISTS</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046943307_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>Inside “The Will of Tongues,” Sarah Davachi’s Organ Music Masterpiece</title>
       <link>https://daily.bandcamp.com/features/sarah-davachi-the-will-of-tongues-interview</link>
@@ -15,7 +35,7 @@
       
       <category>FEATURES</category>
       <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046914655_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046914655_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,23 +49,23 @@
     </item>
 
     <item>
-      <title>Hip-Hop Label Fused Arrow Hits The Target, Every Time</title>
-      <link>https://daily.bandcamp.com/label-profile/fused-arrow-label-profile</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/fused-arrow-label-profile</guid>
+      <title>Henry Threadgill, Vijay Iyer &amp; Dafnis Prieto, “Fifteen”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/henry-threadgill-vijay-iyer-dafnis-prieto-fifteen-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/henry-threadgill-vijay-iyer-dafnis-prieto-fifteen-review</guid>
       
-      <category>LABEL PROFILE</category>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046857128_150.jpg" type="image/jpeg" length="0"/>
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046938257_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
-      <title>Essential Releases, August 21, 2026</title>
-      <link>https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026</guid>
+      <title>Scrambled Eggs, “Happier Together, Filthier Than Ever: The Best Of”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/scrambled-eggs-happier-together-filthier-than-ever-the-best-of-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/scrambled-eggs-happier-together-filthier-than-ever-the-best-of-review</guid>
       
-      <category>ESSENTIAL RELEASES</category>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046856380_150.jpg" type="image/jpeg" length="0"/>
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046799780_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -66,6 +86,26 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046878932_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Hip-Hop Label Fused Arrow Hits The Target, Every Time</title>
+      <link>https://daily.bandcamp.com/label-profile/fused-arrow-label-profile</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/fused-arrow-label-profile</guid>
+      
+      <category>LABEL PROFILE</category>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046857128_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Essential Releases, August 21, 2026</title>
+      <link>https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026</guid>
+      
+      <category>ESSENTIAL RELEASES</category>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046856380_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -266,46 +306,6 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046682245_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Underground Medicine #6</title>
-      <link>https://daily.bandcamp.com/underground-medicine/underground-medicine-6</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/underground-medicine/underground-medicine-6</guid>
-      
-      <category>UNDERGROUND MEDICINE</category>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046677205_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Womack Sisters Keep It In the Family</title>
-      <link>https://daily.bandcamp.com/features/the-womack-sisters-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/the-womack-sisters-feature</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046591813_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Alfonso Soliano, “Tiga Trombone”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/alfonso-soliano-tiga-trombone-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/alfonso-soliano-tiga-trombone-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046661138_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Reggae Left Behind By Streaming</title>
-      <link>https://daily.bandcamp.com/left-behind-by-streaming/reggae-left-behind-by-streaming</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/left-behind-by-streaming/reggae-left-behind-by-streaming</guid>
-      
-      <category>LEFT BEHIND BY STREAMING</category>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046410636_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
