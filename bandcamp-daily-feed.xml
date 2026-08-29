@@ -5,7 +5,7 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:22:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:30:20 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -39,13 +39,13 @@
     </item>
 
     <item>
-      <title>What Was Clean Feed?</title>
-      <link>https://daily.bandcamp.com/label-profile/clean-feed-label-profile</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/clean-feed-label-profile</guid>
+      <title>“Silent Hill” Composer Akira Yamaoka Picks His Bandcamp Favorites</title>
+      <link>https://daily.bandcamp.com/big-ups/akira-yamaoka-big-ups</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/big-ups/akira-yamaoka-big-ups</guid>
       
-      <category>LABEL PROFILE</category>
+      <category>BIG UPS</category>
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046953559_150.jpg" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046797773_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -59,13 +59,13 @@
     </item>
 
     <item>
-      <title>“Silent Hill” Composer Akira Yamaoka Picks His Bandcamp Favorites</title>
-      <link>https://daily.bandcamp.com/big-ups/akira-yamaoka-big-ups</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/big-ups/akira-yamaoka-big-ups</guid>
+      <title>What Was Clean Feed?</title>
+      <link>https://daily.bandcamp.com/label-profile/clean-feed-label-profile</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/clean-feed-label-profile</guid>
       
-      <category>BIG UPS</category>
+      <category>LABEL PROFILE</category>
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046797773_150.jpg" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0046953559_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
