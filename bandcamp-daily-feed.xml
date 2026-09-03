@@ -5,9 +5,29 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:55:06 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>The Best Field Recordings on Bandcamp, August 2026</title>
+      <link>https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-august-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-august-2026</guid>
+      
+      <category>BEST FIELD RECORDINGS</category>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047068836_180" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Best Hip-Hop on Bandcamp, August 2026</title>
+      <link>https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-august-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-august-2026</guid>
+      
+      <category>BEST HIP-HOP</category>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047090999_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>Spit-Polished: A Guide to Shit &amp; Shine</title>
       <link>https://daily.bandcamp.com/lists/spit-polished-a-guide-to-shit-shine</link>
@@ -15,7 +35,27 @@
       
       <category>LISTS</category>
       <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0047046095_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0047046095_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>This Friday is Bandcamp Friday</title>
+      <link>https://daily.bandcamp.com/features/bandcamp-fridays</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/bandcamp-fridays</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0042629193_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>RAP, “Navigator”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/rap-navigator-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/rap-navigator-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046991867_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -36,16 +76,6 @@
       <category>BEST JAZZ</category>
       <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0047065221_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>This Friday is Bandcamp Friday</title>
-      <link>https://daily.bandcamp.com/features/bandcamp-fridays</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/bandcamp-fridays</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0042629193_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -276,36 +306,6 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046838556_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Open Mike Eagle &amp; Kenny Segal, “DOOMED!”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/open-mike-eagle-kenny-segal-doomed-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/open-mike-eagle-kenny-segal-doomed-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046800042_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Queer Country Revolution Rolls On</title>
-      <link>https://daily.bandcamp.com/lists/queer-country-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/lists/queer-country-album-guide</guid>
-      
-      <category>LISTS</category>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046797666_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>How Colectivo Casa Amarela Grew Beyond Its Island Origins</title>
-      <link>https://daily.bandcamp.com/label-profile/colectivo-casa-amarela-label-profile</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/colectivo-casa-amarela-label-profile</guid>
-      
-      <category>LABEL PROFILE</category>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046802356_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
