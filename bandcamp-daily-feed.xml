@@ -5,9 +5,59 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:55:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:54:27 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>The Best Metal on Bandcamp, August 2026</title>
+      <link>https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-august-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-august-2026</guid>
+      
+      <category>BEST METAL</category>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047109646_180" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Best Country Music on Bandcamp, August 2026</title>
+      <link>https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-august-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-august-2026</guid>
+      
+      <category>BEST COUNTRY</category>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046933871_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Best Contemporary Classical Music on Bandcamp, August 2026</title>
+      <link>https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-august-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-august-2026</guid>
+      
+      <category>BEST CONTEMPORARY CLASSICAL</category>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047069089_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>This Friday is Bandcamp Friday</title>
+      <link>https://daily.bandcamp.com/features/bandcamp-fridays</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/bandcamp-fridays</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0042629193_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Cyst, “ᲘᲘ”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/cyst-ee-ee-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/cyst-ee-ee-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047125606_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>The Best Field Recordings on Bandcamp, August 2026</title>
       <link>https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-august-2026</link>
@@ -15,7 +65,17 @@
       
       <category>BEST FIELD RECORDINGS</category>
       <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0047068836_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0047068836_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>RAP, “Navigator”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/rap-navigator-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/rap-navigator-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0046991867_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -36,26 +96,6 @@
       <category>LISTS</category>
       <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0047046095_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>This Friday is Bandcamp Friday</title>
-      <link>https://daily.bandcamp.com/features/bandcamp-fridays</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/bandcamp-fridays</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0042629193_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>RAP, “Navigator”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/rap-navigator-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/rap-navigator-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046991867_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -266,46 +306,6 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046838996_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Gasba Forever: The Next Phase of Algeria’s Millenia-Old Folk Tradition</title>
-      <link>https://daily.bandcamp.com/features/my-heart-is-dust-before-him-21st-century-gasba-from-algeria-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/my-heart-is-dust-before-him-21st-century-gasba-from-algeria-feature</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046677460_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Ongoing Transformation of Cabo Verdean Music</title>
-      <link>https://daily.bandcamp.com/scene-report/the-ongoing-transformation-of-music-from-cabo-verde-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/scene-report/the-ongoing-transformation-of-music-from-cabo-verde-review</guid>
-      
-      <category>SCENE REPORT</category>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046857497_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Learning by Doing: Making Music as Melaina Kol</title>
-      <link>https://daily.bandcamp.com/features/melaina-kol-okay-thats-great-because-if-i-do-that-then-feature</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/melaina-kol-okay-thats-great-because-if-i-do-that-then-feature</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046849370_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Tyondai Braxton, “Splayed Werks”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/tyondai-braxton-splayed-werks-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/tyondai-braxton-splayed-werks-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046838556_2.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
