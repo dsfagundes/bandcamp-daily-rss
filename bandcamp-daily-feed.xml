@@ -5,17 +5,27 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:54:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:14:44 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>The Best Metal on Bandcamp, August 2026</title>
-      <link>https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-august-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-august-2026</guid>
+      <title>Essential Releases, September 4, 2026</title>
+      <link>https://daily.bandcamp.com/essential-releases/essential-releases-september-4-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-september-4-2026</guid>
       
-      <category>BEST METAL</category>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0047109646_180" type="image/jpeg" length="0"/>
+      <category>ESSENTIAL RELEASES</category>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047107535_180" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Brazil’s New Metal Vanguard</title>
+      <link>https://daily.bandcamp.com/lists/brazil-heavy-metal-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/lists/brazil-heavy-metal-album-guide</guid>
+      
+      <category>LISTS</category>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047090832_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,6 +39,36 @@
     </item>
 
     <item>
+      <title>The Best Hip-Hop on Bandcamp, August 2026</title>
+      <link>https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-august-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-august-2026</guid>
+      
+      <category>BEST HIP-HOP</category>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047090999_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Various Artists, “Can’t Stop It! II: Australian Post Punk 1979–84” (2026 Deluxe Edition)</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/various-artists-cant-stop-it-ii-australian-post-punk-1979-84-2026-deluxe-edition-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/various-artists-cant-stop-it-ii-australian-post-punk-1979-84-2026-deluxe-edition-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047074241_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>The Best Metal on Bandcamp, August 2026</title>
+      <link>https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-august-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-august-2026</guid>
+      
+      <category>BEST METAL</category>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047109646_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
       <title>The Best Contemporary Classical Music on Bandcamp, August 2026</title>
       <link>https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-august-2026</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-august-2026</guid>
@@ -36,16 +76,6 @@
       <category>BEST CONTEMPORARY CLASSICAL</category>
       <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0047069089_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>This Friday is Bandcamp Friday</title>
-      <link>https://daily.bandcamp.com/features/bandcamp-fridays</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/bandcamp-fridays</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0042629193_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -76,16 +106,6 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046991867_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Hip-Hop on Bandcamp, August 2026</title>
-      <link>https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-august-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-august-2026</guid>
-      
-      <category>BEST HIP-HOP</category>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0047090999_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -239,6 +259,16 @@
     </item>
 
     <item>
+      <title>Today is Bandcamp Friday</title>
+      <link>https://daily.bandcamp.com/features/bandcamp-fridays</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/bandcamp-fridays</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0042629193_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
       <title>Inside “The Will of Tongues,” Sarah Davachi’s Organ Music Masterpiece</title>
       <link>https://daily.bandcamp.com/features/sarah-davachi-the-will-of-tongues-interview</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/features/sarah-davachi-the-will-of-tongues-interview</guid>
@@ -276,36 +306,6 @@
       <category>LISTS</category>
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046881291_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Hip-Hop Label Fused Arrow Hits The Target, Every Time</title>
-      <link>https://daily.bandcamp.com/label-profile/fused-arrow-label-profile</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/fused-arrow-label-profile</guid>
-      
-      <category>LABEL PROFILE</category>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046857128_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Essential Releases, August 21, 2026</title>
-      <link>https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026</guid>
-      
-      <category>ESSENTIAL RELEASES</category>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046856380_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Ok Cowgirl, “Rhinestone Cowgirl”</title>
-      <link>https://daily.bandcamp.com/album-of-the-day/ok-cowgirl-rhinestone-cowgirl-review</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/ok-cowgirl-rhinestone-cowgirl-review</guid>
-      
-      <category>ALBUM OF THE DAY</category>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046838996_2.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
