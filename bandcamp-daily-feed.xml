@@ -5,17 +5,17 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:23:42 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Essential Releases, September 11, 2026</title>
-      <link>https://daily.bandcamp.com/essential-releases/essential-releases-september-11-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-september-11-2026</guid>
+      <title>Heavy Blessings: A Church Road Records Primer</title>
+      <link>https://daily.bandcamp.com/label-profile/heavy-blessings-a-church-road-records-primer</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/heavy-blessings-a-church-road-records-primer</guid>
       
-      <category>ESSENTIAL RELEASES</category>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0047292057_180" type="image/jpeg" length="0"/>
+      <category>LABEL PROFILE</category>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047312637_180" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,6 +29,16 @@
     </item>
 
     <item>
+      <title>Essential Releases, September 11, 2026</title>
+      <link>https://daily.bandcamp.com/essential-releases/essential-releases-september-11-2026</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-september-11-2026</guid>
+      
+      <category>ESSENTIAL RELEASES</category>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047292057_150.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
       <title>Sylvan Esso Pick Their Bandcamp Favorites</title>
       <link>https://daily.bandcamp.com/big-ups/sylvan-esso-bandcamp-favorite-albums</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/big-ups/sylvan-esso-bandcamp-favorite-albums</guid>
@@ -39,13 +49,13 @@
     </item>
 
     <item>
-      <title>Solex Does It Again</title>
-      <link>https://daily.bandcamp.com/features/solex-low-kick-and-hard-bop-album-guide</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/solex-low-kick-and-hard-bop-album-guide</guid>
+      <title>Haruomi Hosono, “Yours Sincerely”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/haruomi-hosono-yours-sincerely-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/haruomi-hosono-yours-sincerely-review</guid>
       
-      <category>FEATURES</category>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0047251833_150.jpg" type="image/jpeg" length="0"/>
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047292017_2.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -56,6 +66,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0047129063_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Solex Does It Again</title>
+      <link>https://daily.bandcamp.com/features/solex-low-kick-and-hard-bop-album-guide</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/solex-low-kick-and-hard-bop-album-guide</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047251833_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -286,26 +306,6 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0046938065_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>For Shabaam Sahdeeq, Everything Is Art</title>
-      <link>https://daily.bandcamp.com/features/for-shabaam-sahdeeq-everything-is-art</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/features/for-shabaam-sahdeeq-everything-is-art</guid>
-      
-      <category>FEATURES</category>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0046990451_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>Essential Releases, August 28, 2026</title>
-      <link>https://daily.bandcamp.com/essential-releases/essential-releases-august-28-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/essential-releases/essential-releases-august-28-2026</guid>
-      
-      <category>ESSENTIAL RELEASES</category>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0047011420_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
