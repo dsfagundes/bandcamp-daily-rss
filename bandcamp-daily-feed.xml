@@ -5,9 +5,19 @@
     <link>https://daily.bandcamp.com</link>
     <description>Bandcamp Daily editorial feed, updated daily via GitHub Actions</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:08:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:17:27 GMT</lastBuildDate>
     <atom:link href="https://dsfagundes.github.io/bandcamp-daily-rss/bandcamp-daily-feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Perennial Death on DIY, Olympia, and their Current Pop Hot Streak</title>
+      <link>https://daily.bandcamp.com/features/perennial-death-label-profile</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/features/perennial-death-label-profile</guid>
+      
+      <category>FEATURES</category>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047403106_180" type="image/jpeg" length="0"/>
+    </item>
+
     <item>
       <title>The Sound of Gqom Circa 2026</title>
       <link>https://daily.bandcamp.com/scene-report/gqom-album-guide</link>
@@ -15,7 +25,7 @@
       
       <category>SCENE REPORT</category>
       <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0047382746_180" type="image/jpeg" length="0"/>
+      <enclosure url="https://f4.bcbits.com/img/0047382746_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -29,16 +39,6 @@
     </item>
 
     <item>
-      <title>Heavy Blessings: A Church Road Records Primer</title>
-      <link>https://daily.bandcamp.com/label-profile/heavy-blessings-a-church-road-records-primer</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/heavy-blessings-a-church-road-records-primer</guid>
-      
-      <category>LABEL PROFILE</category>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0047312637_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
       <title>It’s Not Easy Being Greenland</title>
       <link>https://daily.bandcamp.com/scene-report/greenland-music-scene-report</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/scene-report/greenland-music-scene-report</guid>
@@ -49,6 +49,16 @@
     </item>
 
     <item>
+      <title>Green Lung, “Necropolitan”</title>
+      <link>https://daily.bandcamp.com/album-of-the-day/green-lung-necropolitan-review</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/green-lung-necropolitan-review</guid>
+      
+      <category>ALBUM OF THE DAY</category>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047291455_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
       <title>Perennial, “Modernism”</title>
       <link>https://daily.bandcamp.com/album-of-the-day/perennial-modernism-review</link>
       <guid isPermaLink="true">https://daily.bandcamp.com/album-of-the-day/perennial-modernism-review</guid>
@@ -56,6 +66,16 @@
       <category>ALBUM OF THE DAY</category>
       <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0047270853_2.jpg" type="image/jpeg" length="0"/>
+    </item>
+
+    <item>
+      <title>Heavy Blessings: A Church Road Records Primer</title>
+      <link>https://daily.bandcamp.com/label-profile/heavy-blessings-a-church-road-records-primer</link>
+      <guid isPermaLink="true">https://daily.bandcamp.com/label-profile/heavy-blessings-a-church-road-records-primer</guid>
+      
+      <category>LABEL PROFILE</category>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://f4.bcbits.com/img/0047312637_150.jpg" type="image/jpeg" length="0"/>
     </item>
 
     <item>
@@ -286,26 +306,6 @@
       <category>LISTS</category>
       <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://f4.bcbits.com/img/0047046095_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Ambient Music on Bandcamp, August 2026</title>
-      <link>https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-august-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-august-2026</guid>
-      
-      <category>BEST AMBIENT</category>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0047046202_150.jpg" type="image/jpeg" length="0"/>
-    </item>
-
-    <item>
-      <title>The Best Jazz on Bandcamp, August 2026</title>
-      <link>https://daily.bandcamp.com/best-jazz/the-best-jazz-on-bandcamp-august-2026</link>
-      <guid isPermaLink="true">https://daily.bandcamp.com/best-jazz/the-best-jazz-on-bandcamp-august-2026</guid>
-      
-      <category>BEST JAZZ</category>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://f4.bcbits.com/img/0047065221_150.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
